@@ -1,0 +1,9 @@
+bin=./continuous-match
+
+
+$bin ./dataSet/hprd1 ./dataset/Q1 ./dataset/insertion1 -fo 
+
+
+
+
+
